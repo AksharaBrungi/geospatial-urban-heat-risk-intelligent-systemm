@@ -1,0 +1,6 @@
+{
+  "name": "Geospatial Urban Heat Risk Intelligent System",
+  "description": "Ward-level geospatial intelligent platform integrating satellite LST, NDVI, NDWI, PCA-based Heat Vulnerability Index (HVI), Random Forest & XGBoost predictive modeling, SHAP explainability, and scenario analysis for climate-resilient cities.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

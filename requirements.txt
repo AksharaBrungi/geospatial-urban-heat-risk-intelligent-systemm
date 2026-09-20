@@ -1,0 +1,19 @@
+# Geospatial Urban Heat Risk Intelligent System - Dependencies
+flask==3.0.3
+flask-cors==4.0.1
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+xgboost==2.0.3
+shap==0.45.1
+earthengine-api==0.1.400
+geopandas==0.14.4
+shapely==2.0.4
+psycopg2-binary==2.9.9
+geoalchemy2==0.14.7
+sqlalchemy==2.0.30
+requests==2.32.2
+reportlab==4.2.0
+plotly==5.22.0
+gunicorn==22.0.0
+python-dotenv==1.0.1
