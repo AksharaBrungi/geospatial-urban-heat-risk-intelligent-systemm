@@ -1,7 +1,7 @@
 # Geospatial Urban Heat Risk Intelligent System - Dependencies
 flask==3.0.3
 flask-cors==4.0.1
-pandas==2.2.2
+pandas==2.2.3
 numpy==1.26.4
 scikit-learn==1.4.2
 xgboost==2.0.3
